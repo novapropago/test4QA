@@ -1,0 +1,1 @@
+this file is intended for practical work on the discipline "basics of software testing"
